@@ -1,1 +1,1 @@
-# odin-recipes
+This is a personal project that is part of the Foundation Course of "The Odin Project". With this, I hope to create a beautiful webpage design using HTML, although it may not be the best, but the process of learning is essential. I will also be learning the basics of 'GIT' and 'GITHUB' repos' via this project.
